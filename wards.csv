@@ -1,0 +1,226 @@
+id,name,ac_id,ac_name,pc_id,pc_name,district
+1,"Kempegowda Ward",150,Yelahanka,27,Chikballapur,Bangalore Urban
+10,Byatarayanapura,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+100,"Garudachar Palya",174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+101,"Dodda Nekkundi",174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+102,"AECS Layout",174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+103,"White Field",174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+104,Varthuru,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+105,Munekollal,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+106,Marathahalli,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+107,Bellanduru,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+108,"Cox Town",161,"C.V. Raman Nagar",25,"Bangalore Central"
+109,Benniganahalli,161,"C.V. Raman Nagar",25,"Bangalore Central"
+11,Kodigehalli,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+110,"C V Raman Nagar",161,"C.V. Raman Nagar",25,"Bangalore Central"
+111,Kaggadasanapura,161,"C.V. Raman Nagar",25,"Bangalore Central"
+112,"New Tippasandara",161,"C.V. Raman Nagar",25,"Bangalore Central"
+113,"Hoysala Nagar",161,"C.V. Raman Nagar",25,"Bangalore Central"
+114,"Jeevanbhima Nagar",161,"C.V. Raman Nagar",25,"Bangalore Central"
+115,"Konena Agrahara",161,"C.V. Raman Nagar",25,"Bangalore Central"
+116,Ramaswamypalya,162,"Shivaji Nagar",25,"Bangalore Central"
+117,Vasanthnagar,162,"Shivaji Nagar",25,"Bangalore Central"
+118,"Sampangiram Nagar",162,"Shivaji Nagar",25,"Bangalore Central"
+119,"Shivaji Nagar",162,"Shivaji Nagar",25,"Bangalore Central"
+12,"Dodda Bommasandra",152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+120,"Bharathi Nagar",162,"Shivaji Nagar",25,"Bangalore Central"
+121,Ulsoor,162,"Shivaji Nagar",25,"Bangalore Central"
+122,"Dattatreya Temple",164,"Gandhi Nagar",25,"Bangalore Central"
+123,Gandhinagar,164,"Gandhi Nagar",25,"Bangalore Central"
+124,"Subhash Nagar",164,"Gandhi Nagar",25,"Bangalore Central"
+125,Okalipuram,164,"Gandhi Nagar",25,"Bangalore Central"
+126,Binnipete,164,"Gandhi Nagar",25,"Bangalore Central"
+127,Cottonpete,164,"Gandhi Nagar",25,"Bangalore Central"
+128,Chickpete,164,"Gandhi Nagar",25,"Bangalore Central"
+129,"Dayananda Nagar",165,"Rajaji Nagar",25,"Bangalore Central"
+13,Vidyaranyapura,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+130,Sriramamandir,165,"Rajaji Nagar",25,"Bangalore Central"
+131,Shivanagara,165,"Rajaji Nagar",25,"Bangalore Central"
+132,"Rajaji Nagar",165,"Rajaji Nagar",25,"Bangalore Central"
+133,"Basaveshwara Nagar",165,"Rajaji Nagar",25,"Bangalore Central"
+134,Kamakshipalya,165,"Rajaji Nagar",25,"Bangalore Central"
+135,"Dr. Raj Kumar Agrahara Dasarahalli",166,"Govindraja Nagar",26,"Bangalore South"
+136,"Govindaraja Nagar",166,"Govindraja Nagar",26,"Bangalore South"
+137,Marenahalli,166,"Govindraja Nagar",26,"Bangalore South"
+138,Kaveripura,166,"Govindraja Nagar",26,"Bangalore South"
+139,Mudalapalya,166,"Govindraja Nagar",26,"Bangalore South"
+14,"Kuvempu Nagar",152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+140,"Maruthi Mandir ward",166,"Govindraja Nagar",26,"Bangalore South"
+141,Nagarabhavi,166,"Govindraja Nagar",26,"Bangalore South"
+142,Chandralayout,166,"Govindraja Nagar",26,"Bangalore South"
+143,Nayandahalli,166,"Govindraja Nagar",26,"Bangalore South"
+144,"Kempapura Agrahara",167,"Vijaya Nagar",26,"Bangalore South"
+145,Vijayanagar,167,"Vijaya Nagar",26,"Bangalore South"
+146,Hosahalli,167,"Vijaya Nagar",26,"Bangalore South"
+147,"Hampi Nagar",167,"Vijaya Nagar",26,"Bangalore South"
+148,"New Guddadahalli",167,"Vijaya Nagar",26,"Bangalore South"
+149,"Gali Anjaneya Temple Ward",167,"Vijaya Nagar",26,"Bangalore South"
+15,Kammagondanahalli,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+150,Attiguppe,167,"Vijaya Nagar",26,"Bangalore South"
+151,"Deepanjali Nagar",167,"Vijaya Nagar",26,"Bangalore South"
+152,Avalahalli,167,"Vijaya Nagar",26,"Bangalore South"
+153,Padarayanapura,168,Chamarajpet,25,"Bangalore Central"
+154,Rayapuram,168,Chamarajpet,25,"Bangalore Central"
+155,"Devaraj Urs Nagar",168,Chamarajpet,25,"Bangalore Central"
+156,Chalavadipalya,168,Chamarajpet,25,"Bangalore Central"
+157,"K R Market",168,Chamarajpet,25,"Bangalore Central"
+158,Chamrajapet,168,Chamarajpet,25,"Bangalore Central"
+159,"Azad Nagar",168,Chamarajpet,25,"Bangalore Central"
+16,Mallasandra,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+160,"Dharmaraya Swamy Temple",169,Chickpet,26,"Bangalore South"
+161,"Silver Jublee Park",169,Chickpet,26,"Bangalore South"
+162,Sunkenahalli,169,Chickpet,26,"Bangalore South"
+163,"Vishveshwara Puram",169,Chickpet,26,"Bangalore South"
+164,"Hombegowda Nagar",169,Chickpet,26,"Bangalore South"
+165,"B Venkata Reddy Nagar",169,Chickpet,26,"Bangalore South"
+166,"Shanthi Nagar",163,"Shanti Nagar",25,"Bangalore Central"
+167,"Ashok Nagar",163,"Shanti Nagar",25,"Bangalore Central"
+168,Nilasandra,163,"Shanti Nagar",25,"Bangalore Central"
+169,Vannarpet,163,"Shanti Nagar",25,"Bangalore Central"
+17,Chikkasandra,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+170,Jogupalya,163,"Shanti Nagar",25,"Bangalore Central"
+171,Domlur,163,"Shanti Nagar",25,"Bangalore Central"
+172,Agaram,163,"Shanti Nagar",25,"Bangalore Central"
+173,Ejipura,172,"B.T.M. Layout",26,"Bangalore South"
+174,Koramangala,172,"B.T.M. Layout",26,"Bangalore South"
+175,Jakkasandra,172,"B.T.M. Layout",26,"Bangalore South"
+176,Adugodi,172,"B.T.M. Layout",26,"Bangalore South"
+177,Lakkasandra,172,"B.T.M. Layout",26,"Bangalore South"
+178,"Suddagunte Palya",172,"B.T.M. Layout",26,"Bangalore South"
+179,Madivala,172,"B.T.M. Layout",26,"Bangalore South"
+18,Bagalakunte,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+180,"Someswara Temple Ward",172,"B.T.M. Layout",26,"Bangalore South"
+181,"BTM Layout",172,"B.T.M. Layout",26,"Bangalore South"
+182,Byrasandra,173,Jayanagar,26,"Bangalore South"
+183,Gurappanapalya,173,Jayanagar,26,"Bangalore South"
+184,"Jayanagar East",173,Jayanagar,26,"Bangalore South"
+185,"J P Nagar",173,Jayanagar,26,"Bangalore South"
+186,"Shakambari Nagar",173,Jayanagar,26,"Bangalore South"
+187,Sarakki,173,Jayanagar,26,"Bangalore South"
+188,Yediyur,171,"Padmanaba Nagar",26,"Bangalore South"
+189,"Ganesh Mandir ward",171,"Padmanaba Nagar",26,"Bangalore South"
+19,"T Dasarahalli",155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+190,"Devagiri Temple Ward",171,"Padmanaba Nagar",26,"Bangalore South"
+191,"Banashankari Temple ward",171,"Padmanaba Nagar",26,"Bangalore South"
+192,"Kumaraswamy Layout",171,"Padmanaba Nagar",26,"Bangalore South"
+193,"Padmanabha Nagar",171,"Padmanaba Nagar",26,"Bangalore South"
+194,Chikkalsandra,171,"Padmanaba Nagar",26,"Bangalore South"
+195,Hosakerehalli,171,"Padmanaba Nagar",26,"Bangalore South"
+196,"Gavi Gangadhareshwara",170,Basavanagudi,26,"Bangalore South"
+197,Srinagar,170,Basavanagudi,26,"Bangalore South"
+198,"Dodda Ganapati",170,Basavanagudi,26,"Bangalore South"
+199,"Vidyapeeta ward",170,Basavanagudi,26,"Bangalore South"
+2,"Chowdeswari Ward",150,Yelahanka,27,Chikballapur,Bangalore Urban
+20,Nalagadarenahalli,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+200,"Swamy Vivekananda",170,Basavanagudi,26,"Bangalore South"
+201,Katriguppe,170,Basavanagudi,26,"Bangalore South"
+202,Uttarahalli,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+203,Subrahmanyapura,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+204,Vasanthpura,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+205,Yelchenahalli,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+206,Konanakunte,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+207,"RBI layout",176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+208,Anjanapura,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+209,Gottigere,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+21,Chokkasandra,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+210,"Kalena Agrahara",176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+211,Begur,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+212,Naganathapura,176,"Bangalore South",23,"Bangalore Rural",Bangalore Urban
+213,Jaraganahalli,175,Bommanahalli,26,"Bangalore South"
+214,Puttenahalli,175,Bommanahalli,26,"Bangalore South"
+215,Bilekhalli,175,Bommanahalli,26,"Bangalore South"
+216,Hulimavu,175,Bommanahalli,26,"Bangalore South"
+217,Kodichikkanahalli,175,Bommanahalli,26,"Bangalore South"
+218,Bommanahalli,175,Bommanahalli,26,"Bangalore South"
+219,Hongasandra,175,Bommanahalli,26,"Bangalore South"
+22,"Peenya Industrial Area",155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+220,Gharebhavipalya,175,Bommanahalli,26,"Bangalore South"
+221,"HSR Layout",175,Bommanahalli,26,"Bangalore South"
+222,Ibluru,175,Bommanahalli,26,"Bangalore South"
+223,Mangammanapalya,175,Bommanahalli,26,"Bangalore South"
+224,"Hosa Road",175,Bommanahalli,26,"Bangalore South"
+225,Kudlu,177,"Anekal",23,"Bangalore Rural",Bangalore Urban
+23,"Rajagopal Nagar",155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+24,Hegganahalli,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+25,Sunkadakatte,155,Dasarahalli,24,"Bangalore North",Bangalore Urban
+26,"Dodda Bidarakallu",153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+27,Lingadheeranahalli,153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+28,Herohalli,153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+29,Ullalu,153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+3,Atturu,150,Yelahanka,27,Chikballapur,Bangalore Urban
+30,Nagadevanahalli,153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+31,"Bande Mutt",153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+32,Kengeri,153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+33,Hemmigepura,153,Yeshvanthapura,24,"Bangalore North",Bangalore Urban
+34,"JP Park",154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+35,Yeshwanthpura,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+36,Jalahalli,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+37,Peenya,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+38,"Laxmidevi Nagar",154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+39,Laggere,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+4,"Yelahanka Satellite Town",150,Yelahanka,27,Chikballapur,Bangalore Urban
+40,"Chowdeshwari Nagar",154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+41,Kottegepalya,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+42,Srigandhadakaval,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+43,Malathalli,154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+44,"Jnana Bharathi ward",154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+45,"Rajarajeshwari Nagar",154,"Rajarajeshwari Nagar",23,"Bangalore Rural"
+46,"Rajiv Nagar",156,"Mahalaxmi Layout",24,"Bangalore North"
+47,"Dr. Puneet Rajkumar",156,"Mahalaxmi Layout",24,"Bangalore North"
+48,Mahalakshmipuram,156,"Mahalaxmi Layout",24,"Bangalore North"
+49,Nagapura,156,"Mahalaxmi Layout",24,"Bangalore North"
+5,Kogilu,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+50,"Nalvadi Krishna Raja Wadiyar",156,"Mahalaxmi Layout",24,"Bangalore North"
+51,"Shankar Matt",156,"Mahalaxmi Layout",24,"Bangalore North"
+52,"Shakthi Ganapathi Nagar",156,"Mahalaxmi Layout",24,"Bangalore North"
+53,"Vrisabhavathi Nagar",156,"Mahalaxmi Layout",24,"Bangalore North"
+54,Mattikere,157,Malleswaram,24,"Bangalore North"
+55,Malleswaram,157,Malleswaram,24,"Bangalore North"
+56,"Aramane Nagara",157,Malleswaram,24,"Bangalore North"
+57,"Rajamahal Guttahalli",157,Malleswaram,24,"Bangalore North"
+58,"Kadu Malleshwar Ward",157,Malleswaram,24,"Bangalore North"
+59,"Subramanya Nagar",157,Malleswaram,24,"Bangalore North"
+6,Jakkuru,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+60,"Gayithri Nagar",157,Malleswaram,24,"Bangalore North"
+61,"Radhakrishna Temple Ward",158,Hebbal,24,"Bangalore North"
+62,"Sanjaya Nagar",158,Hebbal,24,"Bangalore North"
+63,Hebbala,158,Hebbal,24,"Bangalore North"
+64,"Vishwanath Nagenahalli",158,Hebbal,24,"Bangalore North"
+65,Manorayanapalya,158,Hebbal,24,"Bangalore North"
+66,"Chamundi Nagara",158,Hebbal,24,"Bangalore North"
+67,"Ganga Nagar",158,Hebbal,24,"Bangalore North"
+68,"Jayachamarajendra  Nagar",158,Hebbal,24,"Bangalore North"
+69,"Kaval Bairasandra",159,"Pulakeshi Nagar",24,"Bangalore North"
+7,Thanisandra,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+70,"Kushal Nagar",159,"Pulakeshi Nagar",24,"Bangalore North"
+71,"Muneshwara Nagar",159,"Pulakeshi Nagar",24,"Bangalore North"
+72,"Devara Jeevanahalli",159,"Pulakeshi Nagar",24,"Bangalore North"
+73,"S K Garden",159,"Pulakeshi Nagar",24,"Bangalore North"
+74,Sagayarapuram,159,"Pulakeshi Nagar",24,"Bangalore North"
+75,Pulikeshinagar,159,"Pulakeshi Nagar",24,"Bangalore North"
+76,Hennur,160,"Sarvargna Nagar",25,"Bangalore Central"
+77,Nagavara,160,"Sarvargna Nagar",25,"Bangalore Central"
+78,"HBR Layout",160,"Sarvargna Nagar",25,"Bangalore Central"
+79,Kadugondanahalli,160,"Sarvargna Nagar",25,"Bangalore Central"
+8,Amrutahalli,152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+80,Kacharkanahalli,160,"Sarvargna Nagar",25,"Bangalore Central"
+81,Kammanahalli,160,"Sarvargna Nagar",25,"Bangalore Central"
+82,Banasavadi,160,"Sarvargna Nagar",25,"Bangalore Central"
+83,Subbayyanapalya,160,"Sarvargna Nagar",25,"Bangalore Central"
+84,Lingarajapura,160,"Sarvargna Nagar",25,"Bangalore Central"
+85,"Maruthi Seva Nagar",160,"Sarvargna Nagar",25,"Bangalore Central"
+86,Challakere,151,K.R.Pura,24,"Bangalore North"
+87,Horamavu,151,K.R.Pura,24,"Bangalore North"
+88,Kalkere,151,K.R.Pura,24,"Bangalore North"
+89,Vijinapura,151,K.R.Pura,24,"Bangalore North"
+9,"Hebbal Kempapura",152,Byatarayanapura,24,"Bangalore North",Bangalore Urban
+90,"Ramamurthy Nagar",151,K.R.Pura,24,"Bangalore North"
+91,"K R Puram",151,K.R.Pura,24,"Bangalore North"
+92,Basavanapura,151,K.R.Pura,24,"Bangalore North"
+93,Devasandra,151,K.R.Pura,24,"Bangalore North"
+94,"A. Narayanapura",151,K.R.Pura,24,"Bangalore North"
+95,"Vijnana Nagar",151,K.R.Pura,24,"Bangalore North"
+96,"HAL Airport",151,K.R.Pura,24,"Bangalore North"
+97,Kadugodi,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+98,Hudi,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban
+99,Byrathi,174,"Mahadevapura",25,"Bangalore Central",Bangalore Urban

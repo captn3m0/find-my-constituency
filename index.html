@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>blr.vote</title>
+</head>
+<body>
+<style>
+    #map {
+      height: 400px;
+      width: 100%;
+    }
+
+    #addressInput {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .custom-control {
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 8px;
+    cursor: pointer;
+  }
+
+  .custom-control img {
+    width: 20px;
+    height: 20px;
+  }
+  </style>
+
+<input id="addressInput" type="text" placeholder="Enter address" value="">
+
+<div id="map"></div>
+
+
+<script src="https://unpkg.com/@turf/turf@latest"></script>
+<script src="script.js"></script>
+</body>
+</html>
